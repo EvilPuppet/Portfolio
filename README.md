@@ -1,3 +1,4 @@
 # Portfolio
 Portfólio para fotógrafos
-Na pasta server npm start, para iniciar o projeto 
+Use o cmd para entrar na paster server, e digite npm start.
+Da para usar como portofolio para fotografos.
