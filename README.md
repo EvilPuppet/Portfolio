@@ -2,7 +2,7 @@
 
 Portfólio para fotógrafos dinamico, feito em angular 2.
 
-# Intruções 
+# Instruções 
 
 Use o cmd para entrar na pastar server, e digite npm start, servidor estara escutando na porta http://localhost:3000/
 
